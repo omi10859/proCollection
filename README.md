@@ -7,4 +7,4 @@ This repo have simple programs in different programming languages
 - [Reverse a Number](https://github.com/omi10859/proCollection/blob/master/c/reverseNumber.c)
 
 # Python 3
-- [HelloWorld]([HelloWorld](https://github.com/omi10859/proCollection/blob/master/python3/helloWorld))
+- [HelloWorld](https://github.com/omi10859/proCollection/blob/master/python3/helloWorld)
