@@ -1,5 +1,5 @@
 # proCollection
-This repo have simple programs in different programming languages
+This repo have simple programs in not so simple ways.
 
 # C
 - [HelloWorld](https://github.com/omi10859/proCollection/blob/master/c/HelloWorld.c)
