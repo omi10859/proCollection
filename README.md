@@ -7,6 +7,7 @@ This repo have simple programs in not so simple ways.
 - [Reverse a Number](https://github.com/omi10859/proCollection/blob/master/c/reverseNumber.c)
 - [DynamicArray in C](https://github.com/omi10859/proCollection/blob/master/c/dynamicArray.c)
 - [DigitalClock in C](https://github.com/omi10859/proCollection/blob/master/c/digitalClock.c)
+- [Display Source Code](https://github.com/omi10859/proCollection/blob/master/c/DisplaySourceCode.c)
 
 # Python 3
 - [HelloWorld](https://github.com/omi10859/proCollection/blob/master/python3/helloWorld)
